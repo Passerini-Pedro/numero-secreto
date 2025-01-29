@@ -15,3 +15,6 @@
 
  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/195473498?v=4" width=115><br><sub>Passerini-Pedro</sub>](https://github.com/Passerini-Pedro) 
 
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p>
